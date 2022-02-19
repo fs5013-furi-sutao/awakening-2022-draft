@@ -69,7 +69,7 @@ https://github.com/fs5013-furi-sutao/git.command.tutorial
 ## ■ CRUD アプリのフロントエンドを作成する
 
 - React を使って従業員管理システムのフロントエンドを作成する
-- 
+
 ## ■ デプロイする
 
 - AWS に従業員管理システムをデプロイする
