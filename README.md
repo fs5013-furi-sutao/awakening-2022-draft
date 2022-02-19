@@ -1,6 +1,8 @@
 ![Awakening 2022](./images/awk.png)
 # アプリ開発チャレンジ Awakening 2022 のドラフト案
 
+自走できるエンジニアへ
+
 ## Awakening とは
 
 Awakeninng（アウェイクニング）とは、アプリ開発未経験、またはそれに近い人向けのアプリ開発チャレンジプログラム。
