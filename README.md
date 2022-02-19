@@ -55,7 +55,7 @@ https://github.com/fs5013-furi-sutao/git.command.tutorial
 - A5M2 にローカル PostgreSQL のDB を追加する
 - DB に employees テーブルを作成する
 - employees テーブルに従業員を3人登録する
-- ブラウザにランダムで従業員を1人表示する（JPA を使う）
+- ブラウザにランダムで従業員を1人表示する（Spring Data JPA を使う）
 
 ### ■ DB を Docker 化する
 
