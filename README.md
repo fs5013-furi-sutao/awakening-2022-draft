@@ -43,7 +43,7 @@ https://github.com/fs5013-furi-sutao/git.command.tutorial
 
 ### ■ Web ページを表示する
 
-- Code に Spring Boot Extension Pack をインストールする
+- VSCode に Spring Boot Extension Pack をインストールする
 - Gradle で Spring Boot プロジェクトを作成する
 - ./gradlew bootRun コマンドを実行してブラウザに Hello World を表示する
 
