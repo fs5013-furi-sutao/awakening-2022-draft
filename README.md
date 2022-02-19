@@ -71,7 +71,8 @@ https://github.com/fs5013-furi-sutao/git.command.tutorial
 
 ### ■ CRUD アプリを作成する
 
-- Spring Boot で従業員の氏名、年齢、性別、部署、役職を CRUD できるアプリを作成する
+- 従業員の氏名、年齢、性別、部署、役職を CRUD できるアプリの要望・仕様を明確にする
+- Spring Boot で従業員管理システムを作成する
 - VSCode の Remote Container 拡張機能でコンテナ開発環境を構築する
 
 ### ■ REST API を作成する
