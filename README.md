@@ -12,7 +12,9 @@ Awakeninng（アウェイクニング）とは、アプリ開発未経験、ま�
 ## ■ 開発環境を構築する
 
 Windows の場合:
+- Windows Terminal を winget でインストールする
 - Git を winget でインストールする
+- Windows Terminal で Git Bash を使えるようにする
 - OpenJDK 11 を winget でインストールする
 - VSCode を winget でインストールする
 
