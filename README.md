@@ -1,4 +1,4 @@
-![Awakening 2022](./images/awk.png)
+![Awakening 2022](./images/awking.png)
 # アプリ開発チャレンジ Awakening 2022 のドラフト案
 
 自走できるエンジニアになるために
